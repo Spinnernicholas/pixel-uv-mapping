@@ -31,4 +31,4 @@ X = 65535 - 256G - R
 Y = 65535 - 256A - B
 
 # Workflows
-- [Aseprite](/aseprite/ASEPRITE.md)
+- [Aseprite](/aseprite/README.md)
